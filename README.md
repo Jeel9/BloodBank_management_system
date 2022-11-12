@@ -1,5 +1,5 @@
 # Blood-Bank-Management-System
-DBMS - 18CSC303J
+
 ### Problem Statement
 The development of a web-based Blood Bank Management
 System (BBMS) is proposed to provide management
